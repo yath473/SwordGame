@@ -3,6 +3,7 @@ Unity 2D Minigame project
 SwordGame is an exciting 2D action-packed minigame built in Unity, where players wield a sword to battle enemies, achieve high scores, and test their reflexes and strategy. The game combines fast-paced combat mechanics with engaging visuals, creating a thrilling and immersive gaming experience.
 
 **Features**
+
 Dynamic Combat: Slash, block, and dodge enemies with responsive swordplay mechanics.  
 
 Power-Ups: Collect various power-ups to boost attack power, speed, or defense.  
